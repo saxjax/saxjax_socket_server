@@ -4,6 +4,6 @@ Proof of concept implementing flask socket server
 
 ## Run the server
 - open in terminal
-- cd to socket_server.py
-- python3 socket_server.py
-- open webbrowser on localhost://5001
+- cd to main_socket.py
+- type : python3 main_socket.py
+- open webbrowser on localhost:5001
